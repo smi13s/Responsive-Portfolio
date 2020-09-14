@@ -1,0 +1,42 @@
+.container{
+    width: 60%;
+    margin:auto;
+}
+
+.my-form{
+    padding:20px;
+}
+
+.my-form .from-group{
+    padding-bottom:15px;
+}
+
+.my-form label{
+    display:block;
+}
+
+.my-form input[type="text"], .my-from textarea{
+    padding:8px;
+    width:100%;
+}
+
+.button{
+    background-color: #333;
+    color:#fff;
+    padding:10px 15px;
+    border:none;
+}
+.box{
+    background-color: #333;
+    color: #fff;
+    border-width:3px;
+    border-bottom-width:10px;
+    border-top-style:dotted;
+
+    border: 5px blue solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+    
